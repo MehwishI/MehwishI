@@ -19,5 +19,5 @@
 
 ## Get in Touch
 * Email: mehwish.iqb21@gmail.com
-* LinkedIn: [Mehwish Iqbal] (https://www.linkedin.com/in/mehwish-i/)
-* Website: [Mehwish Iqbal's Portfolio] (mehwishbuilds.wordpress.com) 
+* LinkedIn: [Mehwish Iqbal](https://www.linkedin.com/in/mehwish-i/)
+* Website: [Mehwish Iqbal's Portfolio](mehwishbuilds.wordpress.com) 
