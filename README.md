@@ -1,16 +1,22 @@
-## Hi there 👋
+#Mehwish Iqbal's GitHub Profile
 
-<!--
-**MehwishI/MehwishI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+### Crafting dynamic, user-focused web applications | Dive into my GitHub to see how I turn ideas into code
 
-Here are some ideas to get you started:
+##My SkillSet
+*Node.js
+*Express.js
+*React.js
+*PostGreSQL
+*MongoDB
+*JQuery
+*Ajax
+*Google APIs
+*RestFul APIs
+*OpenData API
+*Swagger
+*Cloud Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Get in Touch
+Email: mehwish.iqb21@gmail.com
+LinkedIn: [https://www.linkedin.com/in/mehwish-i/]Mehwish Iqbal
