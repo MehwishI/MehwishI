@@ -3,7 +3,7 @@
 ### Hi there 👋
 ### Crafting dynamic, user-focused web applications | Dive into my GitHub to see how I turn ideas into code
 
-##My SkillSet
+## My SkillSet
 * Node.js
 * Express.js
 * React.js
