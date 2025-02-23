@@ -18,6 +18,6 @@
 * Cloud Deployment
 
 ## Get in Touch
-Email: mehwish.iqb21@gmail.com
-LinkedIn: [https://www.linkedin.com/in/mehwish-i/]Mehwish Iqbal
-Website: [mehwishbuilds.wordpress.com]Mehwish Iqbal's Portfolio
+* Email: mehwish.iqb21@gmail.com
+* LinkedIn: [https://www.linkedin.com/in/mehwish-i/]Mehwish Iqbal
+* Website: [mehwishbuilds.wordpress.com]Mehwish Iqbal's Portfolio
