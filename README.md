@@ -1,7 +1,7 @@
 # Mehwish Iqbal's GitHub Profile
 
 ### Hi there 👋
-### Crafting dynamic, user-focused web applications | Dive into my GitHub to see how I turn ideas into code
+### I like crafting dynamic, user-focused web applications. Dive into my GitHub to see how I turn ideas into code.
 
 ## My SkillSet
 * Node.js
